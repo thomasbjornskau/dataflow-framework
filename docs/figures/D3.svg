@@ -1,0 +1,299 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60.0" y="92.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1f262f" text-anchor="start">Template: needs and value</text>
+<text x="60.0" y="136.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#667080" text-anchor="start">What must be in place on the target platform, what does it replace, and what improves?</text>
+<line x1="60.0" y1="160.0" x2="1860.0" y2="160.0" stroke="#d6dae0" stroke-width="2" stroke-linecap="round"/>
+<rect x="1752.4" y="58.0" width="107.6" height="36.0" rx="18" fill="#2b3440" stroke="none" stroke-width="0"/>
+<text x="1806.2" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Dataflow</text>
+<rect x="1562.6" y="58.0" width="179.8" height="36.0" rx="18" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="1652.5" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#2b3440" text-anchor="middle">Template · needs</text>
+<text x="1860.0" y="1062.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="end">Draft · Dataflow framework · The example row is interpretation (see figure C3)</text>
+<text x="60.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#667080" text-anchor="start">Statistic or group</text>
+<rect x="60.0" y="210.0" width="420.0" height="38.0" rx="4" fill="#ffffff" stroke="#a7afba" stroke-width="1.5"/>
+<text x="500.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#667080" text-anchor="start">Contact person</text>
+<rect x="500.0" y="210.0" width="300.0" height="38.0" rx="4" fill="#ffffff" stroke="#a7afba" stroke-width="1.5"/>
+<text x="820.0" y="203.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#667080" text-anchor="start">Date</text>
+<rect x="820.0" y="210.0" width="160.0" height="38.0" rx="4" fill="#ffffff" stroke="#a7afba" stroke-width="1.5"/>
+<rect x="60.0" y="272.0" width="1240.0" height="40.0" rx="6" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="69.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">#</text>
+<text x="103.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">Data state</text>
+<text x="271.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">Need</text>
+<text x="481.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">Type</text>
+<text x="621.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">Replaces today</text>
+<text x="791.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">Value</text>
+<text x="981.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">Risk of not doing it</text>
+<text x="1161.0" y="297.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#483d8b" text-anchor="start">On platform?</text>
+<rect x="60.0" y="312.0" width="1240.0" height="78.0" rx="0" fill="#f4f5f7" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="312.0" x2="94.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="312.0" x2="262.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="312.0" x2="472.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="312.0" x2="612.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="312.0" x2="782.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="312.0" x2="972.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="312.0" x2="1152.0" y2="390.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="342.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#667080" text-anchor="middle">E</text>
+<rect x="104.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#2b7a5c" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<text x="271.0" y="334.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">Shared intake and</text>
+<text x="271.0" y="351.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">recoding of sources</text>
+<rect x="482.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<text x="621.0" y="334.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">13 intakes in SAS/</text>
+<text x="621.0" y="351.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">Excel (step 1)</text>
+<text x="791.0" y="334.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">One tested routine,</text>
+<text x="791.0" y="351.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">less maintenance</text>
+<text x="981.0" y="334.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">13 SAS routines must</text>
+<text x="981.0" y="351.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f262f" text-anchor="start" font-style="italic">move before 2029</text>
+<rect x="1162.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="324.0" width="20.0" height="20.0" rx="3" fill="#2b3440" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="358.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<rect x="60.0" y="390.0" width="1240.0" height="78.0" rx="0" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="390.0" x2="94.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="390.0" x2="262.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="390.0" x2="472.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="390.0" x2="612.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="390.0" x2="782.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="390.0" x2="972.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="390.0" x2="1152.0" y2="468.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="420.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f262f" text-anchor="middle">1</text>
+<rect x="104.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<rect x="482.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<rect x="1162.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="402.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="436.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<rect x="60.0" y="468.0" width="1240.0" height="78.0" rx="0" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="468.0" x2="94.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="468.0" x2="262.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="468.0" x2="472.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="468.0" x2="612.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="468.0" x2="782.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="468.0" x2="972.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="468.0" x2="1152.0" y2="546.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="498.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f262f" text-anchor="middle">2</text>
+<rect x="104.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<rect x="482.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<rect x="1162.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="480.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="514.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<rect x="60.0" y="546.0" width="1240.0" height="78.0" rx="0" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="546.0" x2="94.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="546.0" x2="262.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="546.0" x2="472.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="546.0" x2="612.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="546.0" x2="782.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="546.0" x2="972.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="546.0" x2="1152.0" y2="624.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="576.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f262f" text-anchor="middle">3</text>
+<rect x="104.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<rect x="482.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<rect x="1162.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="558.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="592.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<rect x="60.0" y="624.0" width="1240.0" height="78.0" rx="0" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="624.0" x2="94.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="624.0" x2="262.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="624.0" x2="472.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="624.0" x2="612.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="624.0" x2="782.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="624.0" x2="972.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="624.0" x2="1152.0" y2="702.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="654.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f262f" text-anchor="middle">4</text>
+<rect x="104.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<rect x="482.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<rect x="1162.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="636.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<rect x="60.0" y="702.0" width="1240.0" height="78.0" rx="0" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="702.0" x2="94.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="702.0" x2="262.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="702.0" x2="472.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="702.0" x2="612.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="702.0" x2="782.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="702.0" x2="972.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="702.0" x2="1152.0" y2="780.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="732.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f262f" text-anchor="middle">5</text>
+<rect x="104.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<rect x="482.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<rect x="1162.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="714.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="748.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<rect x="60.0" y="780.0" width="1240.0" height="78.0" rx="0" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<line x1="94.0" y1="780.0" x2="94.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="262.0" y1="780.0" x2="262.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="472.0" y1="780.0" x2="472.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="612.0" y1="780.0" x2="612.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="782.0" y1="780.0" x2="782.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="972.0" y1="780.0" x2="972.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="1152.0" y1="780.0" x2="1152.0" y2="858.0" stroke="#d6dae0" stroke-width="1.2" stroke-linecap="round"/>
+<text x="77.0" y="810.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1f262f" text-anchor="middle">6</text>
+<rect x="104.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="114.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">SD</text>
+<rect x="134.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="144.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ID</text>
+<rect x="164.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="174.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">PD</text>
+<rect x="194.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="204.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">ST</text>
+<rect x="224.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="234.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b7a5c" text-anchor="middle">OD</text>
+<rect x="482.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="492.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">S</text>
+<rect x="512.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="522.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">P</text>
+<rect x="542.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="552.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">V</text>
+<rect x="572.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="582.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#6b5fb5" text-anchor="middle">D</text>
+<rect x="1162.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1172.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">Yes</text>
+<rect x="1192.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1202.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">No</text>
+<rect x="1222.0" y="792.0" width="20.0" height="20.0" rx="3" fill="#ffffff" stroke="#2b3440" stroke-width="1.5"/>
+<text x="1232.0" y="826.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#2b3440" text-anchor="middle">?</text>
+<text x="60.0" y="888.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">S = service · P = process · V = variables and states · D = dependency</text>
+<text x="60.0" y="912.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">‘On platform?’ is answered when the solution is assessed. Prioritise the needs in your own backlog.</text>
+<rect x="1440.0" y="180.0" width="420.0" height="806.0" rx="10" fill="#f3f5f9" stroke="#d0d6e0" stroke-width="1.5"/>
+<text x="1464.0" y="222.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f262f" text-anchor="start">How to use the template</text>
+<circle cx="1478.0" cy="260.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1506.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">Needs, not solutions</text>
+<text x="1506.0" y="291.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">Write what is needed, not which tool to</text>
+<text x="1506.0" y="315.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">use.</text>
+<circle cx="1478.0" cy="355.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="361.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1506.0" y="361.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">Link to today’s process</text>
+<text x="1506.0" y="386.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">What does the need replace? Refer to</text>
+<text x="1506.0" y="410.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">process steps in D1.</text>
+<circle cx="1478.0" cy="450.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="456.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1506.0" y="456.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">Value and risk</text>
+<text x="1506.0" y="481.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">What improves, and what happens if we</text>
+<text x="1506.0" y="505.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">only move as-is?</text>
+<circle cx="1478.0" cy="545.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="551.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1506.0" y="551.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">To assessment and backlog</text>
+<text x="1506.0" y="576.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">The list goes on to assessment and is</text>
+<text x="1506.0" y="600.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">logged in the backlog.</text>
+<rect x="1464.0" y="858.0" width="372.0" height="104.0" rx="8" fill="#2b3440" stroke="none" stroke-width="0"/>
+<text x="1482.0" y="888.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#bfdfcc" text-anchor="start">RULE</text>
+<text x="1482.0" y="914.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">‘?’ is a valid answer. What has not</text>
+<text x="1482.0" y="938.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">been assessed is not guessed.</text>
+<rect x="60.0" y="1036.0" width="28.0" height="20.0" rx="4" fill="#f4f5f7" stroke="#a7afba" stroke-width="1.2"/>
+<text x="96.0" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Example row (E)</text>
+<rect x="242.7" y="1036.0" width="28.0" height="20.0" rx="4" fill="#ffffff" stroke="#a7afba" stroke-width="1.2"/>
+<text x="278.7" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Field to fill in</text>
+<rect x="394.3" y="1036.0" width="20.0" height="20.0" rx="3" fill="#2b7a5c" stroke="#2b7a5c" stroke-width="1.5"/>
+<text x="426.3" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Data state</text>
+</svg>

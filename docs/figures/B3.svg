@@ -1,0 +1,308 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60.0" y="92.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1f262f" text-anchor="start">From current process to target state</text>
+<text x="60.0" y="136.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#667080" text-anchor="start">The current process shows what is. The target state shows what is needed. The difference is the needs.</text>
+<line x1="60.0" y1="160.0" x2="1860.0" y2="160.0" stroke="#d6dae0" stroke-width="2" stroke-linecap="round"/>
+<rect x="1752.4" y="58.0" width="107.6" height="36.0" rx="18" fill="#2b3440" stroke="none" stroke-width="0"/>
+<text x="1806.2" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Dataflow</text>
+<rect x="1547.2" y="58.0" width="195.2" height="36.0" rx="18" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="1644.8" y="82.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#2b3440" text-anchor="middle">Overview · method</text>
+<text x="1860.0" y="1062.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="end">Draft · Dataflow framework · Schematic example</text>
+<rect x="60.0" y="196.0" width="160.0" height="340.0" rx="8" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="78.0" y="230.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">Today</text>
+<text x="78.0" y="256.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">AS IS</text>
+<text x="78.0" y="275.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">template D1–D2</text>
+<rect x="240.0" y="196.0" width="284.0" height="340.0" rx="6" fill="#eef7f0" stroke="#cfe6d6" stroke-width="1"/>
+<text x="382.0" y="218.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#3d7a55" text-anchor="middle" letter-spacing="1">COLLECT</text>
+<rect x="530.0" y="196.0" width="284.0" height="340.0" rx="6" fill="#eaf4f8" stroke="#c9e1ea" stroke-width="1"/>
+<text x="672.0" y="218.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#2f6f86" text-anchor="middle" letter-spacing="1">PROCESS</text>
+<rect x="820.0" y="196.0" width="284.0" height="340.0" rx="6" fill="#f4f2fc" stroke="#ddd7f5" stroke-width="1"/>
+<text x="962.0" y="218.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5a4aa8" text-anchor="middle" letter-spacing="1">ANALYSE</text>
+<rect x="1110.0" y="196.0" width="284.0" height="340.0" rx="6" fill="#fcf8e6" stroke="#eee3b0" stroke-width="1"/>
+<text x="1252.0" y="218.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7a6410" text-anchor="middle" letter-spacing="1">DISSEMINATE</text>
+<rect x="351.0" y="234.0" width="51.2" height="24.0" rx="12.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="376.6" y="250.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">Role</text>
+<rect x="641.0" y="234.0" width="51.2" height="24.0" rx="12.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="666.6" y="250.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">Role</text>
+<rect x="931.0" y="234.0" width="62.3" height="24.0" rx="12.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="962.1" y="250.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">Role ?</text>
+<rect x="1221.0" y="234.0" width="51.2" height="24.0" rx="12.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="1246.6" y="250.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">Role</text>
+<line x1="482.0" y1="350.0" x2="572.0" y2="350.0" stroke="#7a8493" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="527.0" cy="350.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="527.0" y1="341.8" x2="527.0" y2="333.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="532.8" y1="344.2" x2="539.0" y2="338.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="535.2" y1="350.0" x2="544.0" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="532.8" y1="355.8" x2="539.0" y2="362.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="527.0" y1="358.2" x2="527.0" y2="367.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="521.2" y1="355.8" x2="515.0" y2="362.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="518.8" y1="350.0" x2="510.0" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="521.2" y1="344.2" x2="515.0" y2="338.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="527.0" cy="350.0" r="8.2" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="772.0" y1="350.0" x2="837.0" y2="350.0" stroke="#7a8493" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="804.5" cy="350.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="804.5" y1="341.8" x2="804.5" y2="333.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="808.6" y1="342.9" x2="813.0" y2="335.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="811.6" y1="345.9" x2="819.2" y2="341.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="812.7" y1="350.0" x2="821.5" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="811.6" y1="354.1" x2="819.2" y2="358.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="808.6" y1="357.1" x2="813.0" y2="364.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="804.5" y1="358.2" x2="804.5" y2="367.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="800.4" y1="357.1" x2="796.0" y2="364.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="797.4" y1="354.1" x2="789.8" y2="358.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="796.3" y1="350.0" x2="787.5" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="797.4" y1="345.9" x2="789.8" y2="341.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="800.4" y1="342.9" x2="796.0" y2="335.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="804.5" cy="350.0" r="8.2" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="945.0" y1="350.0" x2="979.0" y2="350.0" stroke="#7a8493" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="962.0" cy="350.0" r="13.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="962.0" y1="343.8" x2="962.0" y2="337.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="965.1" y1="344.6" x2="968.5" y2="338.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="967.4" y1="346.9" x2="973.3" y2="343.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="968.2" y1="350.0" x2="975.0" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="967.4" y1="353.1" x2="973.3" y2="356.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="965.1" y1="355.4" x2="968.5" y2="361.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="962.0" y1="356.2" x2="962.0" y2="363.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="958.9" y1="355.4" x2="955.5" y2="361.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="956.6" y1="353.1" x2="950.7" y2="356.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="955.8" y1="350.0" x2="949.0" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="956.6" y1="346.9" x2="950.7" y2="343.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="958.9" y1="344.6" x2="955.5" y2="338.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="962.0" cy="350.0" r="6.2" fill="#a9b3c0" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="1087.0" y1="350.0" x2="1152.0" y2="350.0" stroke="#7a8493" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="1119.5" cy="350.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="1119.5" y1="341.8" x2="1119.5" y2="333.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1123.6" y1="342.9" x2="1128.0" y2="335.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1126.6" y1="345.9" x2="1134.2" y2="341.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1127.7" y1="350.0" x2="1136.5" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1126.6" y1="354.1" x2="1134.2" y2="358.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1123.6" y1="357.1" x2="1128.0" y2="364.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1119.5" y1="358.2" x2="1119.5" y2="367.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1115.4" y1="357.1" x2="1111.0" y2="364.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1112.4" y1="354.1" x2="1104.8" y2="358.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1111.3" y1="350.0" x2="1102.5" y2="350.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1112.4" y1="345.9" x2="1104.8" y2="341.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1115.4" y1="342.9" x2="1111.0" y2="335.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="1119.5" cy="350.0" r="8.2" fill="#2b3440" stroke="#2b3440" stroke-width="1.6"/>
+<rect x="282.0" y="292.0" width="200.0" height="116.0" rx="8" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="294.0" y="318.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f262f" text-anchor="start">Intake</text>
+<rect x="296.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#ffffff" stroke="#2b3440" stroke-width="1.8"/>
+<rect x="322.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#b3bcc8" stroke="#667080" stroke-width="1.8"/>
+<rect x="292.0" y="378.0" width="51.1" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="317.5" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">Portal</text>
+<rect x="347.1" y="378.0" width="57.2" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="375.7" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">Survey</text>
+<rect x="572.0" y="292.0" width="200.0" height="116.0" rx="8" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="584.0" y="318.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f262f" text-anchor="start">Checks and editing</text>
+<rect x="586.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#47505e" stroke="#2b3440" stroke-width="1.8"/>
+<rect x="612.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#b3bcc8" stroke="#667080" stroke-width="1.8"/>
+<rect x="582.0" y="378.0" width="40.7" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="602.4" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">SAS</text>
+<rect x="626.7" y="378.0" width="54.6" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="654.0" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">Forms</text>
+<rect x="837.0" y="292.0" width="108.0" height="116.0" rx="8" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="849.0" y="318.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f262f" text-anchor="start">Calculation</text>
+<rect x="851.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#47505e" stroke="#2b3440" stroke-width="1.8"/>
+<rect x="847.0" y="378.0" width="40.7" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="867.4" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">SAS</text>
+<rect x="979.0" y="292.0" width="108.0" height="116.0" rx="8" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="991.0" y="318.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f262f" text-anchor="start">Manual</text>
+<text x="991.0" y="337.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f262f" text-anchor="start">adjustment</text>
+<rect x="993.0" y="350.0" width="16.0" height="24.0" rx="5" fill="#f6b48f" stroke="#b8643a" stroke-width="1.8"/>
+<circle cx="999.0" cy="360.0" r="6.0" fill="none" stroke="#8a3f1a" stroke-width="2"/>
+<line x1="1003.5" y1="364.5" x2="1008.0" y2="369.0" stroke="#8a3f1a" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="989.0" y="378.0" width="47.5" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="1012.8" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">Excel</text>
+<rect x="1152.0" y="292.0" width="200.0" height="116.0" rx="8" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="1164.0" y="318.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1f262f" text-anchor="start">Publishing</text>
+<rect x="1166.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#b3bcc8" stroke="#667080" stroke-width="1.8"/>
+<rect x="1192.0" y="340.0" width="16.0" height="24.0" rx="5" fill="#ffffff" stroke="#2b3440" stroke-width="1.8"/>
+<rect x="1162.0" y="378.0" width="67.3" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="1195.7" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">Database</text>
+<rect x="1233.3" y="378.0" width="39.8" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="1253.2" y="393.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">Web</text>
+<rect x="256.0" y="470.0" width="229.8" height="24.0" rx="12.0" fill="#ffffff" stroke="#bcc3cc" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="370.9" y="486.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#667080" text-anchor="middle">In from: other statistics, registers</text>
+<rect x="1130.0" y="470.0" width="160.5" height="24.0" rx="12.0" fill="#ffffff" stroke="#bcc3cc" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="1210.2" y="486.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" fill="#667080" text-anchor="middle">Out to: users, partners</text>
+<rect x="240.0" y="556.0" width="1154.0" height="52.0" rx="26" fill="#ffffff" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="817.0" y="589.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#483d8b" text-anchor="middle">The difference becomes the list of needs  →  assessed, then logged in the backlog</text>
+<line x1="340.0" y1="538.0" x2="340.0" y2="543.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="340.0,552.0 344.9,543.0 335.1,543.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="340.0" y1="610.0" x2="340.0" y2="619.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="340.0,628.0 344.9,619.0 335.1,619.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="675.0" y1="538.0" x2="675.0" y2="543.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="675.0,552.0 680.0,543.0 670.0,543.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="675.0" y1="610.0" x2="675.0" y2="619.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="675.0,628.0 680.0,619.0 670.0,619.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="965.0" y1="538.0" x2="965.0" y2="543.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="965.0,552.0 970.0,543.0 960.0,543.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="965.0" y1="610.0" x2="965.0" y2="619.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="965.0,628.0 970.0,619.0 960.0,619.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1255.0" y1="538.0" x2="1255.0" y2="543.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="1255.0,552.0 1260.0,543.0 1250.0,543.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1255.0" y1="610.0" x2="1255.0" y2="619.0" stroke="#6b5fb5" stroke-width="2" stroke-linecap="round"/>
+<polygon points="1255.0,628.0 1260.0,619.0 1250.0,619.0" fill="#6b5fb5" stroke="#6b5fb5" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="60.0" y="636.0" width="160.0" height="330.0" rx="8" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="78.0" y="670.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#483d8b" text-anchor="start">Target</text>
+<text x="78.0" y="696.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">TO BE</text>
+<text x="78.0" y="715.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">template D3</text>
+<rect x="240.0" y="636.0" width="284.0" height="330.0" rx="6" fill="#eef7f0" stroke="#cfe6d6" stroke-width="1"/>
+<text x="382.0" y="658.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#3d7a55" text-anchor="middle" letter-spacing="1">COLLECT</text>
+<rect x="530.0" y="636.0" width="284.0" height="330.0" rx="6" fill="#eaf4f8" stroke="#c9e1ea" stroke-width="1"/>
+<text x="672.0" y="658.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#2f6f86" text-anchor="middle" letter-spacing="1">PROCESS</text>
+<rect x="820.0" y="636.0" width="284.0" height="330.0" rx="6" fill="#f4f2fc" stroke="#ddd7f5" stroke-width="1"/>
+<text x="962.0" y="658.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5a4aa8" text-anchor="middle" letter-spacing="1">ANALYSE</text>
+<rect x="1110.0" y="636.0" width="284.0" height="330.0" rx="6" fill="#fcf8e6" stroke="#eee3b0" stroke-width="1"/>
+<text x="1252.0" y="658.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#7a6410" text-anchor="middle" letter-spacing="1">DISSEMINATE</text>
+<line x1="362.0" y1="770.0" x2="568.0" y2="770.0" stroke="#7a8493" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="431.0" y="754.0" width="68.0" height="32.0" rx="6" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.8" stroke-dasharray="4 3"/>
+<text x="465.0" y="775.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">need</text>
+<line x1="612.0" y1="770.0" x2="738.0" y2="770.0" stroke="#7a8493" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="641.0" y="754.0" width="68.0" height="32.0" rx="6" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.8" stroke-dasharray="4 3"/>
+<text x="675.0" y="775.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">need</text>
+<line x1="782.0" y1="770.0" x2="943.0" y2="770.0" stroke="#7a8493" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="828.5" y="754.0" width="68.0" height="32.0" rx="6" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.8" stroke-dasharray="4 3"/>
+<text x="862.5" y="775.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">need</text>
+<line x1="987.0" y1="770.0" x2="1233.0" y2="770.0" stroke="#7a8493" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="1076.0" y="754.0" width="68.0" height="32.0" rx="6" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.8" stroke-dasharray="4 3"/>
+<text x="1110.0" y="775.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#483d8b" text-anchor="middle">need</text>
+<circle cx="340.0" cy="770.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="340.0" y1="761.8" x2="340.0" y2="753.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="345.8" y1="764.2" x2="352.0" y2="758.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="348.2" y1="770.0" x2="357.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="345.8" y1="775.8" x2="352.0" y2="782.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="340.0" y1="778.2" x2="340.0" y2="787.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="334.2" y1="775.8" x2="328.0" y2="782.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="331.8" y1="770.0" x2="323.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="334.2" y1="764.2" x2="328.0" y2="758.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="340.0" cy="770.0" r="8.2" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<rect x="351.6" y="743.7" width="30.0" height="20.0" rx="10" fill="#2b7a5c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="366.6" y="758.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">SD</text>
+<text x="340.0" y="814.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#2b7a5c" text-anchor="middle">Source data</text>
+<circle cx="590.0" cy="770.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="590.0" y1="761.8" x2="590.0" y2="753.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="594.1" y1="762.9" x2="598.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="597.1" y1="765.9" x2="604.7" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="598.2" y1="770.0" x2="607.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="597.1" y1="774.1" x2="604.7" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="594.1" y1="777.1" x2="598.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="590.0" y1="778.2" x2="590.0" y2="787.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="585.9" y1="777.1" x2="581.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="582.9" y1="774.1" x2="575.3" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="581.8" y1="770.0" x2="573.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="582.9" y1="765.9" x2="575.3" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="585.9" y1="762.9" x2="581.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="590.0" cy="770.0" r="8.2" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<rect x="601.6" y="743.7" width="30.0" height="20.0" rx="10" fill="#2b7a5c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="616.6" y="758.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">ID</text>
+<text x="590.0" y="814.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#2b7a5c" text-anchor="middle">Input data</text>
+<circle cx="760.0" cy="770.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="760.0" y1="761.8" x2="760.0" y2="753.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="764.1" y1="762.9" x2="768.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="767.1" y1="765.9" x2="774.7" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="768.2" y1="770.0" x2="777.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="767.1" y1="774.1" x2="774.7" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="764.1" y1="777.1" x2="768.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="760.0" y1="778.2" x2="760.0" y2="787.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="755.9" y1="777.1" x2="751.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="752.9" y1="774.1" x2="745.3" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="751.8" y1="770.0" x2="743.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="752.9" y1="765.9" x2="745.3" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="755.9" y1="762.9" x2="751.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="760.0" cy="770.0" r="8.2" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<rect x="771.6" y="743.7" width="30.0" height="20.0" rx="10" fill="#2b7a5c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="786.6" y="758.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">PD</text>
+<text x="760.0" y="814.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#2b7a5c" text-anchor="middle">Processed data</text>
+<circle cx="965.0" cy="770.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="965.0" y1="761.8" x2="965.0" y2="753.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="969.1" y1="762.9" x2="973.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="972.1" y1="765.9" x2="979.7" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="973.2" y1="770.0" x2="982.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="972.1" y1="774.1" x2="979.7" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="969.1" y1="777.1" x2="973.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="965.0" y1="778.2" x2="965.0" y2="787.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="960.9" y1="777.1" x2="956.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="957.9" y1="774.1" x2="950.3" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="956.8" y1="770.0" x2="948.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="957.9" y1="765.9" x2="950.3" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="960.9" y1="762.9" x2="956.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="965.0" cy="770.0" r="8.2" fill="#2b3440" stroke="#2b3440" stroke-width="1.6"/>
+<rect x="976.6" y="743.7" width="30.0" height="20.0" rx="10" fill="#2b7a5c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="991.6" y="758.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">ST</text>
+<text x="965.0" y="814.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#2b7a5c" text-anchor="middle">Statistics</text>
+<circle cx="1263.7" cy="778.7" r="8.5" fill="#a9b3c0" stroke="none" stroke-width="1.5"/>
+<circle cx="1246.3" cy="778.7" r="8.5" fill="#a9b3c0" stroke="none" stroke-width="1.5"/>
+<circle cx="1246.3" cy="761.3" r="8.5" fill="#a9b3c0" stroke="none" stroke-width="1.5"/>
+<circle cx="1263.7" cy="761.3" r="8.5" fill="#a9b3c0" stroke="none" stroke-width="1.5"/>
+<circle cx="1255.0" cy="770.0" r="17.0" fill="#ffffff" stroke="#2b3440" stroke-width="1.6"/>
+<line x1="1255.0" y1="761.8" x2="1255.0" y2="753.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1259.1" y1="762.9" x2="1263.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1262.1" y1="765.9" x2="1269.7" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1263.2" y1="770.0" x2="1272.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1262.1" y1="774.1" x2="1269.7" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1259.1" y1="777.1" x2="1263.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1255.0" y1="778.2" x2="1255.0" y2="787.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1250.9" y1="777.1" x2="1246.5" y2="784.7" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1247.9" y1="774.1" x2="1240.3" y2="778.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1246.8" y1="770.0" x2="1238.0" y2="770.0" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1247.9" y1="765.9" x2="1240.3" y2="761.5" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<line x1="1250.9" y1="762.9" x2="1246.5" y2="755.3" stroke="#2b3440" stroke-width="1.1" stroke-linecap="butt"/>
+<circle cx="1255.0" cy="770.0" r="8.2" fill="#2b3440" stroke="#2b3440" stroke-width="1.6"/>
+<rect x="1266.6" y="743.7" width="30.0" height="20.0" rx="10" fill="#2b7a5c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="1281.6" y="758.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">OD</text>
+<text x="1255.0" y="814.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#2b7a5c" text-anchor="middle">Output data</text>
+<rect x="250.0" y="870.0" width="82.6" height="26.0" rx="13.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="291.3" y="887.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#483d8b" text-anchor="middle">Services</text>
+<rect x="342.6" y="870.0" width="94.1" height="26.0" rx="13.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="389.7" y="887.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#483d8b" text-anchor="middle">Processes</text>
+<rect x="446.7" y="870.0" width="158.0" height="26.0" rx="13.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="525.7" y="887.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#483d8b" text-anchor="middle">Variables and states</text>
+<rect x="614.7" y="870.0" width="113.8" height="26.0" rx="13.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="671.6" y="887.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#483d8b" text-anchor="middle">Dependencies</text>
+<rect x="744.5" y="870.0" width="153.6" height="26.0" rx="13.0" fill="#ffffff" stroke="#bcc3cc" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="821.3" y="887.7" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#667080" text-anchor="middle">?  is a valid answer</text>
+<text x="250.0" y="920.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#667080" text-anchor="start">Needs are described per data state, in four rows. No systems until the solution has been assessed.</text>
+<rect x="1440.0" y="180.0" width="420.0" height="806.0" rx="10" fill="#f3f5f9" stroke="#d0d6e0" stroke-width="1.5"/>
+<text x="1464.0" y="222.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f262f" text-anchor="start">How it fits together</text>
+<circle cx="1478.0" cy="260.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1506.0" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">The current process</text>
+<text x="1506.0" y="291.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">Process steps, roles, platforms and</text>
+<text x="1506.0" y="315.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">data, as the process runs today.</text>
+<circle cx="1478.0" cy="355.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="361.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1506.0" y="361.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">The target state</text>
+<text x="1506.0" y="386.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">The five data states are fixed anchor</text>
+<text x="1506.0" y="410.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">points. Between them are needs, not</text>
+<text x="1506.0" y="434.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">systems.</text>
+<circle cx="1478.0" cy="474.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="480.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1506.0" y="480.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">Same symbol language</text>
+<text x="1506.0" y="505.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">Data and systems are drawn the same</text>
+<text x="1506.0" y="529.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">way in both, so the difference shows.</text>
+<circle cx="1478.0" cy="569.0" r="15.0" fill="#2b3440" stroke="#ffffff" stroke-width="2"/>
+<text x="1478.0" y="575.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1506.0" y="575.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f262f" text-anchor="start">The difference is the needs</text>
+<text x="1506.0" y="600.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">What must change becomes the list of</text>
+<text x="1506.0" y="624.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">needs. A later assessment decides what</text>
+<text x="1506.0" y="648.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1f262f" text-anchor="start">exists and what must be built.</text>
+<rect x="1464.0" y="834.0" width="372.0" height="128.0" rx="8" fill="#2b3440" stroke="none" stroke-width="0"/>
+<text x="1482.0" y="864.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#bfdfcc" text-anchor="start">RULE</text>
+<text x="1482.0" y="890.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">The target state shows needs.</text>
+<text x="1482.0" y="914.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">Systems are drawn only after the</text>
+<text x="1482.0" y="938.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#ffffff" text-anchor="start">solution has been assessed.</text>
+<rect x="62.0" y="1035.0" width="30.0" height="20.0" rx="10" fill="#2b7a5c" stroke="#ffffff" stroke-width="1.5"/>
+<text x="77.0" y="1050.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">SD</text>
+<text x="98.0" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Stable data state</text>
+<rect x="233.6" y="1036.0" width="28.0" height="20.0" rx="4" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="269.6" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Need / proposal</text>
+<rect x="404.0" y="1036.0" width="28.0" height="20.0" rx="4" fill="#ffffff" stroke="#2b3440" stroke-width="2"/>
+<text x="440.0" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Process step today</text>
+<rect x="595.7" y="1035.0" width="36.7" height="22.0" rx="11.0" fill="#f4f5f7" stroke="#bcc3cc" stroke-width="1.5"/>
+<text x="614.1" y="1050.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#1f262f" text-anchor="middle">SAS</text>
+<text x="640.4" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Platform</text>
+<rect x="721.1" y="1035.0" width="37.0" height="22.0" rx="11.0" fill="#f2f1f9" stroke="#6b5fb5" stroke-width="1.5"/>
+<text x="739.6" y="1050.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#483d8b" text-anchor="middle">Role</text>
+<text x="766.1" y="1051.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#667080" text-anchor="start">Who does what</text>
+</svg>
