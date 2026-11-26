@@ -1,0 +1,95 @@
+site_name: Dataflow framework
+site_description: Dataflow – a framework for mapping and drawing the data flow in statistical production. Symbol language, levels and lenses, fillable templates, Excel and Tableau templates and AI support. Developed at Statistics Norway.
+site_author: Thomas Bjørnskau
+site_url: https://thomasbjornskau.github.io/dataflow-framework/
+repo_name: dataflow-framework
+repo_url: https://github.com/thomasbjornskau/dataflow-framework
+copyright: Draft · Dataflow framework, developed at Statistics Norway · Text and figures CC BY 4.0, code MIT
+
+# Pages are written as .html files, so relative links also work in raw HTML (figures, templates).
+use_directory_urls: false
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.highlight
+    - content.tooltips
+
+extra:
+  alternate:
+    - name: English
+      link: https://thomasbjornskau.github.io/dataflow-framework/
+      lang: en
+    - name: Norsk
+      link: https://thomasbjornskau.github.io/ssb-dataflyt/
+      lang: nb
+
+extra_css:
+  - assets/site.css
+extra_javascript:
+  - assets/templates.js
+
+markdown_extensions:
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - toc:
+      permalink: true
+      toc_depth: 2
+
+plugins:
+  - search:
+      lang: en
+
+nav:
+  - Home: index.md
+  - The framework:
+      - 1 What is Dataflow?: 1-what-is-dataflow.md
+      - 2 The symbol language: 2-symbol-language.md
+      - 3 The drawings: 3-drawings.md
+      - 4 The data model: 4-data-model.md
+      - 5 How to map: 5-how-to-map.md
+      - 6 Worked example: 6-example-statistics-norway.md
+      - 7 Tools and downloads: 7-tools.md
+      - 8 Adapting the framework: 8-adapting.md
+  - Templates:
+      - template/index.md
+      - D1 Process steps and roles: template/d1.md
+      - D2 Data and systems: template/d2.md
+      - D3 Needs and value: template/d3.md
+  - Reference:
+      - Graphic elements: graphic-elements.md
+      - List of figures: figures.md
+      - Glossary: glossary.md
+
+# The skill is shown as its own page (linked from chapter 7), but is not in the menu.
+not_in_nav: |
+  /files/skills/*/SKILL.md
